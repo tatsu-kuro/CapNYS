@@ -11,6 +11,7 @@
 #include "resource.h"		// メイン シンボル
 #define Vertxt "CapNYS2 Version4.5 - 2019/12/25"
 #define English false
+//20200622 githubと久しぶりに接続できたようだ。
 //グルグル回らないようだ
 // CCapNYS2App:
 // このクラスの実装については、CapNYS2.cpp を参照してください。
